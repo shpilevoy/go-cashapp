@@ -1,0 +1,2 @@
+GRANT ALL PRIVILEGES ON DATABASE cashapp TO cashapp;
+

@@ -1,7 +1,3 @@
-CREATE USER cashapp WITH PASSWORD 'password';
-
-CREATE DATABASE cashapp;
-
 CREATE TABLE "user" (
   user_id int,
   name varchar(255),
